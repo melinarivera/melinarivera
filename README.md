@@ -1,6 +1,8 @@
-<!-- Banner animado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Melina%20Rivera&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20en%20formación%20%7C%20Web%20para%20Pymes%20%26%20Autónomos&descAlignY=55&descSize=16" />
+
+# Hola, soy Melina Rivera
+### Full Stack Developer en formación | Web para Pymes & Autónomos
+
 </div>
 
 ---
@@ -49,13 +51,13 @@ Creo que una pequeña empresa bien posicionada en internet puede competir con cu
 | ☁️ SaaS Pymes | Plataforma web para autónomos | Full Stack | 💡 En diseño |
 
 ---
+## Mi progreso
 
-## Estadísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-dominio_básico-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-dominio_básico-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-aprendiendo-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-próximamente-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-próximamente-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 

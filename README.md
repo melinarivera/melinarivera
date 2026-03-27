@@ -72,7 +72,7 @@ Me comprometo a aprender en público. Cada semana subo avances, cada proyecto cu
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melina.rivera@gmail.com)
-[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://TU_WEB.com)
+[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://melinarivera.github.io/)
 
 </div>
 

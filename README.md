@@ -3,43 +3,41 @@
 # Melina Rivera  
 ### Full Stack Developer | Fundadora de productos digitales  
 
-🌐 https://melinarivera.github.io/MR_Portafolio/
+[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://melinarivera.github.io/MR_Portafolio/)
+[![Cotidiana](https://img.shields.io/badge/Cotidiana-3A7CA5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cotidiana.app)
 
 </div>
 
 ---
 
-## Qué estoy construyendo
+## Sobre mí
 
-Actualmente desarrollo productos digitales enfocados en resolver problemas reales, con especial atención en **simplicidad, claridad y utilidad práctica**.
+Desarrolladora web full stack en formación, enfocada en crear productos digitales con utilidad real, estructura clara y enfoque práctico.
 
-Mi trabajo se centra en crear herramientas que cualquier persona pueda usar, incluso sin experiencia técnica.
+Estoy construyendo proyectos orientados a resolver problemas concretos, especialmente en organización digital, automatización y herramientas pensadas para personas no técnicas, pymes y autónomos.
+
+Mi objetivo no es solo desarrollar interfaces, sino diseñar soluciones funcionales que puedan crecer, validarse y convertirse en productos reales.
 
 ---
 
-## Proyecto principal
+## Proyectos principales
 
 ### ETERN-ME  
-Plataforma digital para organizar información importante y facilitar la gestión en momentos críticos.
+Plataforma digital orientada a organizar información importante, accesos, documentos, contactos e instrucciones para facilitar la gestión en momentos críticos.
 
-**Problema que resuelve:**  
-Cuando ocurre una situación inesperada, la información clave suele estar dispersa o inaccesible.
+**Estado actual:** validación con usuarios.
 
-**Solución:**  
-Centralizar datos esenciales (documentos, accesos, contactos, instrucciones) en un entorno estructurado y accesible.
+### Cotidiana  
+Aplicación pensada para facilitar la organización personal de forma simple e intuitiva, con foco en usuarios adultos o con menor familiaridad tecnológica.
 
-**Estado actual:**  
-Validación con usuarios
+🌐 https://cotidiana.app
 
----
+**Estado actual:** desarrollo y validación.
 
-## Otros proyectos
+### Portafolio web  
+Sitio personal donde presento mi perfil, enfoque y proyectos.
 
-| Proyecto | Descripción | Stack | Estado |
-|----------|-------------|-------|--------|
-| 🌐 Portafolio Web | Sitio personal profesional | HTML + CSS + JS | ✅ Activo |
-| 🏪 Landing Pyme | Página optimizada para negocio local | HTML + CSS | 🔨 En desarrollo |
-| ⚙️ APIs Backend | APIs de práctica con Express | Node.js + Express | 🧪 Testing |
+🌐 https://melinarivera.github.io/MR_Portafolio/
 
 ---
 
@@ -54,7 +52,7 @@ Validación con usuarios
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Bases de datos (en progreso)
+### Bases de datos
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Próximamente
@@ -62,4 +60,30 @@ Validación con usuarios
 
 ---
 
-## Enfoque de trabajo
+## En qué estoy trabajando
+
+```txt
+💡 Construcción de productos reales
+🧠 UX simple para usuarios no técnicos
+⚙️ Desarrollo full stack progresivo
+🚀 Validación temprana con usuarios
+
+| Proyecto          | Descripción                                          | Stack             | Estado           |
+| ----------------- | ---------------------------------------------------- | ----------------- | ---------------- |
+| 🌐 Portafolio Web | Sitio personal profesional                           | HTML + CSS + JS   | ✅ Activo         |
+| 🧩 Cotidiana      | App de organización personal accesible               | HTML + CSS + JS   | 🚧 En desarrollo |
+| 🛡️ ETERN-ME      | Plataforma de organización de información importante | Full Stack        | 🚧 En validación |
+| ⚙️ APIs Backend   | APIs de práctica con Express                         | Node.js + Express | 🧪 Testing       |
+
+Enfoque de trabajo
+Resolver problemas antes que añadir complejidad
+Priorizar claridad, estructura y utilidad
+Diseñar productos accesibles para personas reales
+Aprender aplicando en proyectos concretos
+Construir con visión de escalabilidad y validación
+Contacto
+<div align="center">
+
+
+</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer"/> </div> ```

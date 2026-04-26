@@ -39,7 +39,7 @@ Plataforma digital para organizar cuentas, documentos e información esencial en
 ### 🧩 Cotidiana
 App de organización personal para adultos mayores o personas con poca experiencia tecnológica. Interfaz simple, accesible y pensada para el día a día.
 
-🌐 [cotidiana.app](https://cotidiana.app) · Estado: desarrollo y validación
+🌐 [cotidiana.app](https://cotidiana.app) · Estado: en validación con usuarios · Tipo: SaaS / PWA
 
 ### 🧠 ZenWi
 Herramienta de RRHH para detectar y prevenir el burnout de forma anónima. Control diario del bienestar del equipo, sin fricciones y con total privacidad.
@@ -49,7 +49,7 @@ Estado: en producción
 ### ✈️ TravelMates
 App colaborativa para planificar y gestionar viajes en grupo — itinerarios, gastos compartidos y votaciones en un solo lugar.
 
-🌐 [Ver proyecto](https://melinarivera.github.io/TravelMates-App) · Estado: en validación
+🌐 [Ver proyecto](https://melinarivera.github.io/TravelMates-App) · Estado: en validación con usuarios · Tipo: SaaS / PWA
 
 ---
 

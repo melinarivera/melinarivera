@@ -3,8 +3,8 @@
 # Melina Rivera
 ### Full Stack Developer · Webs, apps, IA y CRM para pymes
 
-Tu socia digital: webs, apps, automatizaciones con IA, CRM y redes sociales
-para pymes y autónomos de **España y México**. Precios claros y demos que puedes probar.
+**Tecnología que trabaja por tu negocio.** Webs, apps, automatizaciones con IA, CRM y redes sociales
+para pymes y autónomos. Trabajo en remoto, desde cualquier lugar. Precios claros y demos que puedes probar.
 
 [![Servicios y precios](https://img.shields.io/badge/Servicios_y_precios-5B8DB8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://melinarivera.github.io/MR_Portafolio/servicios/)
 [![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://melinarivera.github.io/MR_Portafolio/)
@@ -24,7 +24,7 @@ para pymes y autónomos de **España y México**. Precios claros y demos que pue
 - 📣 **Redes sociales y reputación** para negocios locales y despachos
 - 📱 **Apps y SaaS** desde la idea hasta producción
 
-Precios en € y MXN, qué incluye cada servicio y qué se paga aparte en la
+Precios, qué incluye cada servicio y qué se paga aparte en la
 **[página de servicios](https://melinarivera.github.io/MR_Portafolio/servicios/)**.
 
 Mi diferencia: vengo de la **psicología y los Recursos Humanos** (Máster en Dirección y Gestión de RRHH).
@@ -97,7 +97,7 @@ Viajes en grupo: itinerarios, gastos compartidos y votaciones en un solo lugar.
 
 ```txt
 🤖 Asistentes de WhatsApp con IA para estéticas, consultoras y despachos
-🗂️ CRM y automatizaciones para pymes en España y México
+🗂️ CRM y automatizaciones para pymes, en remoto
 🎓 Validando Tesovia con estudiantes
 📣 Gestionando redes y reputación de negocios locales
 ```
@@ -106,7 +106,7 @@ Viajes en grupo: itinerarios, gastos compartidos y votaciones en un solo lugar.
 
 <div align="center">
 
-📍 Madrid, España · 💼 Disponible para proyectos · ⚡ Respuesta en menos de 24 h
+🌍 Trabajo en remoto, desde cualquier lugar · 💼 Disponible para proyectos · ⚡ Respuesta en menos de 24 h
 
 **[Ver servicios y precios →](https://melinarivera.github.io/MR_Portafolio/servicios/)**
 

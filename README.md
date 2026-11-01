@@ -15,6 +15,7 @@ Soy psicóloga y desarrolladora full stack. Me interesa crear herramientas digit
 
 ## Proyectos destacados
 
+- **ZenWi · Tecnología y RR. HH.** — Prototipo de investigación desarrollado para un TFM sobre anonimato y medición del burnout. [Conocer el proyecto y probar la demo](https://zenwi-demo-melina.direccion878104.chatgpt.site) · [ZenWi](https://zenwi.app).
 - [**Nexo · Facturas**](https://github.com/melinarivera/Nexo_Facturas) — Prototipo de automatización del circuito de facturas, con datos ficticios y simulaciones de OCR, IA y SAP.
 - [**Recursos de estudio · Máster RR. HH.**](https://github.com/melinarivera/Recursos_de_estudio_MasterRRHH) — Resúmenes y tests interactivos sobre gestión de personas, estrategia y marco jurídico.
 - [**TravelMates**](https://github.com/melinarivera/TravelMates-App) — Aplicación para organizar viajes en grupo, itinerarios y gastos compartidos. [Ver proyecto](https://melinarivera.github.io/TravelMates-App/).
@@ -22,7 +23,6 @@ Soy psicóloga y desarrolladora full stack. Me interesa crear herramientas digit
 
 ## Productos en validación
 
-- [**ZenWi**](https://zenwi.app) — Herramienta de RR. HH. enfocada en la detección temprana del burnout. [Ver demo ilustrativa](https://zenwi-demo-melina.direccion878104.chatgpt.site).
 - [**Tesovia**](https://www.tesovia.com) — Asistente académico con IA.
 - [**ETERN-ME**](https://www.etern-me.com) — Organización de cuentas, documentos e información esencial.
 - [**Cotidiana**](https://cotidiana.app) — Organizador diario para personas mayores o con poca experiencia tecnológica.

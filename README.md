@@ -22,7 +22,7 @@ Soy psicóloga y desarrolladora full stack. Me interesa crear herramientas digit
 
 ## Productos en validación
 
-- [**ZenWi**](https://zenwi.app) — Herramienta de RR. HH. enfocada en la detección temprana del burnout.
+- [**ZenWi**](https://zenwi.app) — Herramienta de RR. HH. enfocada en la detección temprana del burnout. [Ver demo ilustrativa](https://zenwi-demo-melina.direccion878104.chatgpt.site).
 - [**Tesovia**](https://www.tesovia.com) — Asistente académico con IA.
 - [**ETERN-ME**](https://www.etern-me.com) — Organización de cuentas, documentos e información esencial.
 - [**Cotidiana**](https://cotidiana.app) — Organizador diario para personas mayores o con poca experiencia tecnológica.
